@@ -1,0 +1,15 @@
+{
+  "name": "wp-package",
+  "version": "0.0.6",
+  "description": "a simple package to interact with wordpress API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brahim AKAROUCH",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
